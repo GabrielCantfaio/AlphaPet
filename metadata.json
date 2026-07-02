@@ -1,0 +1,6 @@
+{
+  "name": "Paws & Palms",
+  "description": "Plataforma premium de agendamento de banho, tosa e cuidados estéticos para pets, com visual moderno e tabelas de preços detalhadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
